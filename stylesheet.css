@@ -1,0 +1,34 @@
+.button{
+   margin: auto;
+   padding: 20px;
+   height: 30px;
+   width: 30px;
+   border-radius: 5px;
+   color: red;
+}
+.heading{
+   text-align: center;
+   color: blue;
+}
+
+.mx-auto{
+   margin: auto;
+}
+.mx-width{
+   max-width: 12.4vw;
+}
+.input{
+      height: 40px;
+      width: 175px;
+      border-radius: 5px;
+      margin: auto;
+}
+.row{
+    margin: auto;
+
+   padding: 5px;
+   font-size: 10px;
+   color: red;
+   background-color: black;
+
+}
